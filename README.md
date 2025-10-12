@@ -1,5 +1,7 @@
 # Insurance-Data-Analysis
 
+### In this Project I Summarize Insurance Data to extract useful Insights from data using different Charts, Slicers, Cards..etc . Further I Publish Report to Power BI Services.
+
 ### This data consists of total 10,000 rows and 13 columns(PolicyNumber, CustomerID, Gender, Age, PolicyType, PolicyStartDate, PolicyEndDate, PremiumAmount, CoverageAmount, ClaimNumber, ClaimDate, ClaimAmount,	ClaimStatus)
 
 # Steps Followed:
